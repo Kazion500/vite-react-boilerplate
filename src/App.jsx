@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='font-bold'>Hell</h1>
+      <h1 className='font-bold'>Hello</h1>
     </div>
   )
 }
